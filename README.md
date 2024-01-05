@@ -12,5 +12,5 @@ pip install streamlit
 ## Running the webapp
 To run the webapp use the following commmand once streamlit has been installed:
 ```bash
-streamlit run streamlit-webapp
+streamlit run project-webapp.py
 ```
